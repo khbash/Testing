@@ -6,3 +6,4 @@ for i in range(len(a) - 1):
     a[i], a[ind] = a[ind], a[i]
 
 print(a)
+

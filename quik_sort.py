@@ -12,3 +12,4 @@ a = list(map(int, input().split()))
 
 result = quick_sort(a)
 print(result)
+
